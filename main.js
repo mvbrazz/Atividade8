@@ -22,7 +22,7 @@ console.log(addedApps.join('\n'));
     // contentOfTag , elementsToArray , isValid , addedApps.
 
 // (Exercício 3) Identifique quais funções são curried
-    // 
+    // contentOfTag , isValid , isAddedAfter2018AndUpdatedAfter2019 , addedApps
 
 // (Exercício 4) Identifique quais funções são high-order
     // 
