@@ -19,13 +19,13 @@ console.log(addedApps.join('\n'));
     // contentOfTag , getGitHubProject , elementsToArray , isValid , isAddedAfter2018AndUpdatedAfter2019 , addedApps.
 
 // (Exercício 2) Identifique quais funções no projeto possuem efeitos colaterais (side-effects)
-    // Adicione um comentário identificando-as
+    // contentOfTag , elementsToArray , isValid , addedApps.
 
 // (Exercício 3) Identifique quais funções são curried
-    // Adicione um comentário identificando-as
+    // 
 
 // (Exercício 4) Identifique quais funções são high-order
-    // Adicione um comentário identificando-as
+    // 
 
 // (Exercício 5) Crie um novo arquivo main2.js (baseado no main.js) que seleciona todos as apps adicionadas
 // depois do ano 2000 e atualizadas em 2020. Ao imprimir as apps, além do nome, imprima
