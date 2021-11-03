@@ -13,7 +13,7 @@ const addedApps = elementsToArray(document.getElementsByTagName('application'))
     .filter(isAddedAfter2018AndUpdatedAfter2019)
     .map(getGitHubProject);
 
-console.log(addedApps.join('\n'));
+//console.log(addedApps.join('\n'));
  
 // (Exercício 1) Identifique todas as declarações de funções neste projeto
     // contentOfTag , getGitHubProject , elementsToArray , isValid , isAddedAfter2018AndUpdatedAfter2019 , addedApps.
